@@ -1,0 +1,28 @@
+item_id,product_name,department_name,price,stock
+1,pineapple,fruit,1.99,65
+2,potato,vegetable,0.49,150
+3,"bar soap",hygiene,2.99,75
+4,"charcoal briquettes",grill,7.99,25
+5,swordfish,fish,14.99,20
+6,rideye,meat,12.99,15
+7,avocado,fruit,1.49,120
+8,asparagus,vegetable,1.99,60
+9,tomato,fruit,0.49,175
+10,"pork chops",meat,7.99,45
+11,toothpaste,hygiene,6.99,70
+12,shampoo,hygiene,6.49,35
+13,banana,fruit,0.49,155
+14,tongs,grill,8.99,25
+15,prosciutto,deli,14.99,20
+16,mortadella,deli,12.99,15
+17,provolone,deli,4.99,40
+18,"chicken thighs",meat,5.99,75
+19,eggs,dairy,2.99,55
+20,milk,dairy,4.99,100
+21,"cottage cheese",dairy,3.99,40
+22,halibut,fish,20.99,15
+23,"chilean sea bass",fish,34.99,10
+24,broccoli,vegetable,1.99,135
+25,turnip,vegetable,1.49,45
+26,spinach,vegetable,2.99,50
+27,carrot,vegetable,0.99,175
