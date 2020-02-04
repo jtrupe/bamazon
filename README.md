@@ -1,4 +1,7 @@
 # bamazon
+
+https://jtrupe.github.io/bamazon/
+
 UC Davis bamazon assignment
 
 use MySQL and schema.sql, bamazon-SQL.csv to create database bamazon, and table products.
